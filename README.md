@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuperYuro
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Argorithms
+- 👀 I’m interested in Rust
+- 🌱 I’m currently learning Image Analyzation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
