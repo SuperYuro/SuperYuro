@@ -18,7 +18,7 @@ A student of National Institute of Technology in Japan (called Kosen).
 - Python
 - C#
 
-### Use occasionally
+### Use as needed
 
 - C
 - Arduino
