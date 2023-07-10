@@ -3,7 +3,7 @@
 
 A student of National Institute of Technology in Japan (called Kosen).
 
-## Interested in
+## Interests
 
 - Image analyzation
 - Artificial Intelligence
