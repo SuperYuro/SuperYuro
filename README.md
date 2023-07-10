@@ -1,7 +1,7 @@
 # SuperYuro
 ## About me
 
-A student in National Institute of Technology in Japan.
+A student of National Institute of Technology in Japan (called Kosen).
 
 ## Interested in
 
