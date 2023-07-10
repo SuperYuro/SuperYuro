@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @SuperYuro
-- 👀 I’m interested in Rust
-- 🌱 I’m currently learning Image Analyzation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# SuperYuro
+## About me
 
-<!---
-SuperYuro/SuperYuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A student in National Institute of Technology in Japan.
+
+## Interested in
+
+- Image analyzation
+- Artificial Intelligence
+- Algorithms
+- Web Development
+
+## Languages
+
+### Use mainly
+
+- Rust
+- Python
+- C#
+
+### Use occasionally
+
+- C
+- Arduino
+- TypeScript
+  - React
+  - Next.js
+- Visual Basic
