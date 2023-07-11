@@ -12,17 +12,7 @@ A student of National Institute of Technology in Japan (called Kosen).
 
 ## Languages
 
-### Use mainly
-
 - Rust
 - Python
 - C#
-
-### Use as needed
-
-- C
 - Arduino
-- TypeScript
-  - React
-  - Next.js
-- Visual Basic
