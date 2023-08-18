@@ -5,10 +5,10 @@ A student of National Institute of Technology in Japan (called Kosen).
 
 ## Interests
 
-- Image analyzation
 - Artificial Intelligence
 - Algorithms
 - Web Development
+- Mobile Development
 
 ## Languages
 
@@ -16,3 +16,5 @@ A student of National Institute of Technology in Japan (called Kosen).
 - Python
 - C#
 - Arduino
+- TypeScript
+- Dart
