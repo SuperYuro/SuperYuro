@@ -1,7 +1,7 @@
 # SuperYuro
 ## About me
 
-Foundational degree (Engineering) in Japan
+Foundation degree (Engineering) in Japan
 
 ## Interests
 
